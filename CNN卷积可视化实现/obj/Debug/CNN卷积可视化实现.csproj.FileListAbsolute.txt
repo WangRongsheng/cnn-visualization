@@ -1,0 +1,7 @@
+H:\SharpDevelop Projects\CNN卷积可视化实现\CNN卷积可视化实现\bin\Debug\CNN卷积可视化实现.exe
+H:\SharpDevelop Projects\CNN卷积可视化实现\CNN卷积可视化实现\bin\Debug\CNN卷积可视化实现.pdb
+H:\SharpDevelop Projects\CNN卷积可视化实现\CNN卷积可视化实现\obj\Debug\CNN卷积可视化实现.csprojResolveAssemblyReference.cache
+H:\SharpDevelop Projects\CNN卷积可视化实现\CNN卷积可视化实现\obj\Debug\CNN卷积可视化实现.exe
+H:\SharpDevelop Projects\CNN卷积可视化实现\CNN卷积可视化实现\obj\Debug\CNN卷积可视化实现.pdb
+H:\SharpDevelop Projects\CNN卷积可视化实现\CNN卷积可视化实现\obj\Debug\CNN卷积可视化实现.MainForm.resources
+H:\SharpDevelop Projects\CNN卷积可视化实现\CNN卷积可视化实现\obj\Debug\CNN卷积可视化实现.csproj.GenerateResource.Cache
